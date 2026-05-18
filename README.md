@@ -46,6 +46,17 @@ EduManage is a web-based Student Management System developed using HTML, CSS, Ja
 3. Open `index.html` in any browser.
 4. Use the Teacher Portal or Student Portal to access the system.
 
+## Project Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing-page.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
 ## Author
 
 Developed by Anshe.
