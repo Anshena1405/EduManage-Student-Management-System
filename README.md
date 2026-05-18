@@ -39,13 +39,6 @@ EduManage is a web-based Student Management System developed using HTML, CSS, Ja
 - Font Awesome
 - Antigravity IDE
 
-## How to Run
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in any browser.
-4. Use the Teacher Portal or Student Portal to access the system.
-
 ## Project Screenshots
 
 ### Landing Page
@@ -56,6 +49,13 @@ EduManage is a web-based Student Management System developed using HTML, CSS, Ja
 
 ### Student Dashboard
 ![Student Dashboard](screenshots/student-dashboard.png)
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in any browser.
+4. Use the Teacher Portal or Student Portal to access the system.
 
 ## Author
 
