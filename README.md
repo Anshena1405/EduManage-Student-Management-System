@@ -37,18 +37,7 @@ EduManage is a web-based Student Management System developed using HTML, CSS, Ja
 - Firestore Database
 - Chart.js
 - Font Awesome
-- Antigravity IDE
 
-## Project Screenshots
-
-### Landing Page
-![Landing Page](screenshots/landing-page.png)
-
-### Teacher Dashboard
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
-
-### Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
 
 ## How to Run
 
